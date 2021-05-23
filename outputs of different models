@@ -1,0 +1,13 @@
+following 3 are the models :-
+
+decision tree regressor:
+   mean:  4.683187618169486
+   standard deviation:  0.9533580323792735
+
+linear regressor:
+   mean:  5.041845188003546
+   standard deviation:  1.078088145133484
+
+random forest regressor:
+   mean:  3.33649398828672
+   standard deviation:  0.733279351964047
